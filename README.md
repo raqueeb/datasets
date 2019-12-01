@@ -1,6 +1,8 @@
 # Bangla Word2Vec embedding datasets 300 Dimension for Bangla Deep Learning book
 https://rakibul-hassan.gitbook.io/deep-learning/
+
 Datasets for ML
+
 bnwiki-texts.zip (60MB)
 
 ## Additional datasets for Bangla Word2Vec embedding
